@@ -962,7 +962,7 @@
 
   "wcontroller.building.upgrade": "Your {0} upgraded to a {1}!",
 
-  "wcontroller.building.upgrade.reward": "{0} upgraded to level {1} and its production has increased +1. You also get to pick an additional reward:",
+  "wcontroller.building.upgrade.reward": "{0} upgraded to level {1} and its production has increased +1. You also get to pick an additional reward: ",
 
   "wcontroller.reward.workshop": "workshop",
 
@@ -1050,7 +1050,7 @@
 
   "wcontroller.not.your.turn": "Sorry, it's not your turn yet!",
 
-  "technology.intro": "This tech will enable the following:",
+  "technology.intro": "This tech will enable the following: ",
 
   "technology.build": "{0} makes it possible to build {1}",
 
@@ -1384,13 +1384,13 @@
 
   "settings.restartlanguage": "Please restart Polytopia to go outside",
 
-  "settings.language.load.title":"Quit E Mode",
+  "settings.language.load.title": "Quit E Mode",
 
-  "settings.language.load.info":"Quit Cancelling People and be intellectual Part Of Society",
+  "settings.language.load.info": "Quit Cancelling People and be intellectual Part Of Society",
 
-  "settings.language.load.input":"Language file url:",
+  "settings.language.load.input": "Language file url: ",
 
-  "settings.language.load.button":"GO OUTSIDE",
+  "settings.language.load.button": "GO OUTSIDE",
 
   "throne.title": "Your Twitter Profile",
 
@@ -1428,23 +1428,23 @@
 
   "throne.google.in": "Thats fcuked, Im in!",
 
-  "consent.approval.title":"Welcome to Twitter Simulator!",
+  "consent.approval.title": "Welcome to Twitter Simulator!",
 
-  "consent.approval.info":"To improve Simulator with usage statistics and to store your high scores and settings we need your approval to access to some (lies) personal data.\nYou can read more about what data we collect in our <u><a href='{0}'>privacy policy</a></u>.\n(You can revoke your approval at any time in the 'Throne Room')",
+  "consent.approval.info": "To improve Simulator with usage statistics and to store your high scores and settings we need your approval to access to some (lies) personal data.\nYou can read more about what data we collect in our <u><a href='{0}'>privacy policy</a></u>.\n(You can revoke your approval at any time in the 'Throne Room')",
 
-  "consent.approve":"Sell data to zuckbuerg",
+  "consent.approve": "Sell data to zuckbuerg",
 
-  "consent.deny":"Aw hell nah",
+  "consent.deny": "Aw hell nah",
 
-  "consent.enabled":"Data Collector 9000 Enabled",
+  "consent.enabled": "Data Collector 9000 Enabled",
 
-  "consent.enabled.info":"You currently allow Polytopia to access some (lies) personal data to improve (lies) service and store your high scores etc. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
+  "consent.enabled.info": "You currently allow Polytopia to access some (lies) personal data to improve (lies) service and store your high scores etc. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
 
-  "consent.disabled":"I revoke the fifth and now want to sue zuck",
+  "consent.disabled": "I revoke the fifth and now want to sue zuck",
 
-  "consent.disabled.info":"To save personal data like high scores and usage statistics we need you approval. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
+  "consent.disabled.info": "To save personal data like high scores and usage statistics we need you approval. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
 
-  "consent.revoke":"revoke the fifth",
+  "consent.revoke": "revoke the fifth",
 
   "onlineview.title": "MULTIPLAYER",
 
@@ -1478,7 +1478,7 @@
 
   "onlineview.uptodate": "All games are up to date",
 
-  "onlineview.intro.fix": "Hi {0}! \n\nTo play online multiplayer there are a few things you need to fix:",
+  "onlineview.intro.fix": "Hi {0}! \n\nTo play online multiplayer there are a few things you need to fix: ",
 
   "onlineview.intro.update": "Online multiplayer is not available, please update Polytopia to the latest version",
 
@@ -1588,7 +1588,7 @@
 
   "friendlist.new.button": "ADD",
 
-  "friendlist.new.input": "Player ID:",
+  "friendlist.new.input": "Player ID: ",
 
   "friendlist.new.myself.title": "Me, myself & I",
 
@@ -1650,7 +1650,7 @@
 
   "friendlist.removed.info": "Removed player {0}",
 
-  "idconsole.playerid": "Your Player ID:",
+  "idconsole.playerid": "Your Player ID: ",
 
   "idconsole.share": "Send this Player ID to anyone you want to play against. Tap it to copy.",
 
@@ -1756,7 +1756,7 @@
 
   "mplayerstats.server": "Server version",
 
-  "mplayerstats.lost": "Feeling lost? Check the:",
+  "mplayerstats.lost": "Feeling lost? Check the: ",
 
   "credits.title": "ABOUT",
 
@@ -1766,13 +1766,13 @@
 
   "credits.learnmore1": "Want to know everything?",
 
-  "credits.learnmore2": "Check the extensive Wikia database created by the Polytopia community:",
+  "credits.learnmore2": "Check the extensive Wikia database created by the Polytopia community: ",
 
   "credits.wiki": "POLYTOPIA WIKI",
 
   "credits.showsupport": "Show your support!",
 
-  "credits.getmerch": "Get some official Polytopian merch:",
+  "credits.getmerch": "Get some official Polytopian merch: ",
 
   "credits.visitshop": "VISIT THE SHOP",
 
@@ -1824,13 +1824,13 @@
 
   "friendlist.new.reject": "REJECT",
 
-  "friendlist.new.Results": "Results:",
+  "friendlist.new.Results": "Results: ",
 
   "friendlist.requestrecieved": "Friend Request Received",
 
   "friendlist.requestaccepted": "Friend Request Accepted",
 
-  "mplayerstats.appversion": "App version:",
+  "mplayerstats.appversion": "App version: ",
 
   "gameitem.start.wait": "Waiting for {0} to start the game",
 
